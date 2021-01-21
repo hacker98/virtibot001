@@ -25,7 +25,7 @@ var Textbox = $('#chats');
 
 var Content = '';
 
-recognition.continuous = true;
+//recognition.continuous = true;
 
 recognition.onresult = function(event) {
 
